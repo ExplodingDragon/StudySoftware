@@ -1,0 +1,8 @@
+.idea/**
+.idea
+.git
+.iml
+.tmp
+**/dist
+*.log
+.vscode/settings.json
